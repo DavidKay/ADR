@@ -3,7 +3,7 @@
 ## Context
 
 ### Problem Statement
-In the a heavily regulated industry, making informed architectural decisions is critical to maintaining robust, scalable, and maintainable systems. However, without a formalized process for documenting these decisions, we face challenges such as inconsistency, lack of transparency, and difficulty in tracking the rationale behind architectural choices.
+In any heavily regulated industry, making informed architectural decisions is critical to maintaining robust, scalable, and maintainable systems. However, without a formalized process for documenting these decisions, we face challenges such as inconsistency, lack of transparency, and difficulty in tracking the rationale behind architectural choices.
 
 ### Background
 Regulated industries, or any industry, requires a structured approach to documenting architectural decisions to ensure alignment with business goals, regulatory compliance, and best practices. By adopting a formal process for creating and maintaining Architectural Decision Records (ADRs), we can address these challenges and improve the overall quality and consistency of our architectural practices.
